@@ -16,17 +16,17 @@ Temario del curso
 
 1.  Instalación
 2.  [Entorno de programación](001-Notebook-entorno-de-programacion.ipynb )
-3.  Primeros pasos con Python
-4.  Variables
-5.  Cadenas de caracteres
-6.  Funciones
-7.  Listas
-8.  Bucles
-9.  Sentencias condicionales
-10. Diccionarios
-11. Tuplas
-12. Ordenando elementos
-13. Definiendo funciones propias
+3.  [Primeros pasos con Python](002-Primeros-pasos-con-Python.ipynb)
+4.  [Variables](003-Variables.ipynb)
+5.  [Cadenas de caracteres](004-Cadenas-de-caracteres.ipynb)
+6.  [Funciones](005-Funciones.ipynb)
+7.  [Listas](006-Listas.ipynb)
+8.  [Bucles](007-Bucles.ipynb)
+9.  [Sentencias condicionales](008-Sentencias-condicionales.ipynb)
+10. [Diccionarios](009-Diccionarios.ipynb)
+11. [Tuplas](010-Tuplas.ipynb)
+12. [Ordenando elementos](011-Ordenando-elementos.ipynb)
+13. [Definiendo funciones propias](012-Definiendo-funciones-propias.ipynb)
 
 Enlaces y material adicional
 ----------------------------
