@@ -52,7 +52,7 @@ Libros y cursos
 Dedicatoria
 -----------
 
-A las lingüística computacionales Carmen, Nuria, Helena, Marta y Doaa que fueron las primeras probar los contenidos de este curso. Gracias por las risas, los comentarios y las erratas que encontraron.
+A las lingüística computacionales Carmen, Nuria, Helena, Marta y Doaa que fueron las primeras en probar los contenidos de este curso. Gracias por las risas, los comentarios y las erratas que encontraron.
 
 Créditos
 --------
