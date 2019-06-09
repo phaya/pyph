@@ -15,7 +15,7 @@ Temario del curso
 -----------------
 
 1.  Instalación
-2.  Entorno de programación
+2.  [Entorno de programación](001-Notebook-entorno-de-programacion.ipynb )
 3.  Primeros pasos con Python
 4.  Variables
 5.  Cadenas de caracteres
