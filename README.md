@@ -14,8 +14,8 @@ En particular, es un lenguaje muy potente para el procesamiento de textos, y len
 Temario del curso
 -----------------
 
-1.  Instalación
-2.  [Entorno de programación](001-Notebook-entorno-de-programacion.ipynb )
+1.  [Instalación](000-Instalacion-Anaconda.ipynb)
+2.  [Entorno de programación](001-Notebook-entorno-de-programacion.ipynb)
 3.  [Primeros pasos con Python](002-Primeros-pasos-con-Python.ipynb)
 4.  [Variables](003-Variables.ipynb)
 5.  [Cadenas de caracteres](004-Cadenas-de-caracteres.ipynb)
