@@ -15,18 +15,18 @@ Temario del curso
 -----------------
 
 1.  [Instalación](0-intro/000-Instalacion-Anaconda.ipynb)
-2.  [Entorno de programación](001-Notebook-entorno-de-programacion.ipynb)
-3.  [Primeros pasos con Python](002-Primeros-pasos-con-Python.ipynb)
-4.  [Variables](003-Variables.ipynb)
-5.  [Cadenas de caracteres](004-Cadenas-de-caracteres.ipynb)
-6.  [Funciones](005-Funciones.ipynb)
-7.  [Listas](006-Listas.ipynb)
-8.  [Bucles](007-Bucles.ipynb)
-9.  [Sentencias condicionales](008-Sentencias-condicionales.ipynb)
-10. [Diccionarios](009-Diccionarios.ipynb)
-11. [Tuplas](010-Tuplas.ipynb)
-12. [Ordenando elementos](011-Ordenando-elementos.ipynb)
-13. [Definiendo funciones propias](012-Definiendo-funciones-propias.ipynb)
+2.  [Entorno de programación](0-intro/001-Notebook-entorno-de-programacion.ipynb)
+3.  [Primeros pasos con Python](0-intro/002-Primeros-pasos-con-Python.ipynb)
+4.  [Variables](0-intro/003-Variables.ipynb)
+5.  [Cadenas de caracteres](0-intro/004-Cadenas-de-caracteres.ipynb)
+6.  [Funciones](0-intro/005-Funciones.ipynb)
+7.  [Listas](0-intro/006-Listas.ipynb)
+8.  [Bucles](0-intro/007-Bucles.ipynb)
+9.  [Sentencias condicionales](0-intro/008-Sentencias-condicionales.ipynb)
+10. [Diccionarios](0-intro/009-Diccionarios.ipynb)
+11. [Tuplas](0-intro/010-Tuplas.ipynb)
+12. [Ordenando elementos](0-intro/011-Ordenando-elementos.ipynb)
+13. [Definiendo funciones propias](0-intro/012-Definiendo-funciones-propias.ipynb)
 
 Enlaces y material adicional
 ----------------------------
