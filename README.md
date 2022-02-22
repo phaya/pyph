@@ -59,7 +59,7 @@ Créditos
 
 La siguiente lista incluye los autores y poemas que se han empleado como ejemplos durante el curso. Muchos de ellos los aprendí en el grupo de Facebook *Las Tentaciones* dirigido por Pedro.
 
--   *Oda I («Vida Retirada)* por Fray Luis de León.
+-   *Oda I («Vida Retirada»)* por Fray Luis de León.
 -   *Comillas* por Huguitino Champý Rivera.
 -   *Y me pongo a vivir cuando me llamas* por Belén Reyes.
 -   *Soleares* por Antonio Machado.
