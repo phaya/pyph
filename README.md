@@ -84,4 +84,6 @@ La siguiente lista incluye los autores y poemas que se han empleado como ejemplo
 Licencia
 --------
 
+Este curso ha sido desarrollado por [Pablo A. Haya](https://pablohaya.com). Puedes usar los materiales bajo la siguiente licencia:
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />El material de este repositorio se licencia bajo <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
