@@ -34,7 +34,7 @@ Temario del curso
 
 1.  [Introducción](1-str/100-Introducción-cadenas-de-caracteres.ipynb)
 2.  [Lo básico](1-str/101-Lo-basico.ipynb)
-3.  [Preguntando por el contenido](1-str/102-Preguntando por el contenido.ipynb)
+3.  [Preguntando por el contenido](1-str/102-Preguntando-por-el-contenido.ipynb)
 4.  [Normalizando](1-str/103-Normalizando.ipynb)
 5.  [Separando y juntando palabras](1-str/104-Separando y juntando palabras.ipynb)
 6.  [Operaciones avanzadas de formato](1-str/105-Operaciones avanzadas para dar formato.ipynb)
