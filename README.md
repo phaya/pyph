@@ -14,6 +14,8 @@ En particular, es un lenguaje muy potente para el procesamiento de textos, y len
 Temario del curso
 -----------------
 
+### Introducción a Python
+
 1.  [Instalación](0-intro/000-Instalacion-Anaconda.ipynb)
 2.  [Entorno de programación](0-intro/001-Notebook-entorno-de-programacion.ipynb)
 3.  [Primeros pasos con Python](0-intro/002-Primeros-pasos-con-Python.ipynb)
@@ -27,6 +29,29 @@ Temario del curso
 11. [Tuplas](0-intro/010-Tuplas.ipynb)
 12. [Ordenando elementos](0-intro/011-Ordenando-elementos.ipynb)
 13. [Definiendo funciones propias](0-intro/012-Definiendo-funciones-propias.ipynb)
+
+### Manejo de cadenas de caracteres
+
+1.  [Introducción](1-str/100-Introducción-cadenas-de-caracteres.ipynb)
+2.  [Lo básico](1-str/101-Lo-basico.ipynb)
+3.  [Preguntando por el contenido](1-str/102-Preguntando por el contenido.ipynb)
+4.  [Normalizando](1-str/103-Normalizando.ipynb)
+5.  [Separando y juntando palabras](1-str/104-Separando y juntando palabras.ipynb)
+6.  [Operaciones avanzadas de formato](1-str/105-Operaciones avanzadas para dar formato.ipynb)
+7.  [Leyendo y escribiendo ficheros](1-str/106-Leyendo y escribiendo en ficheros.ipynb)
+8.  [Leyendo otros formatos de fichero](1-str/107-Leyendo otro formatos de fichero.ipynb)
+9.  [Contando palabras](1-str/108-Contando palabras.ipynb)
+
+### Expresiones regulares
+
+1.  [Primeros pasos con expresiones regulares](2-regex/200-Primeros pasos con expresiones regulares.ipynb)
+2.  [Rangos](2-regex/201-Rangos.ipynb)
+3.  [Cero uno o más](2-regex/202-Cero uno o mas.ipynb)
+4.  [Dividir](2-regex/203-Dividir.ipynb)
+5.  [Emparejar y buscar](2-regex/204-Emparejar y buscar.ipynb)
+6.  [Agrupar](2-regex/205-Agrupar.ipynb)
+7.  [Sustituir](2-regex/206-Sustituir.ipynb)
+8.  [Para saber más](2-regex/207-Para saber más.ipynb)
 
 Enlaces y material adicional
 ----------------------------
